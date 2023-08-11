@@ -3,7 +3,7 @@ Proyecto de sociedad
 
 Developed with Unreal Engine 5
 
-Coyotl Equipo: 8
+Equipo: 8
 
 Integrantes:
 
