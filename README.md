@@ -15,8 +15,6 @@ Fausto Angel Reséndiz Alvarez - Músico/Coder
 
 Nombre Completo 4 - Rol
 
-Semestre: 2024-1
-
 Torre de niveles: Nivel 1
 
 Introducción: Juego Endless Runner para computadora desarrollado para implementar las herramientas del motor Unreal Engine 5.
